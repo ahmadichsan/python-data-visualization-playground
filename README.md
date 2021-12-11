@@ -1,14 +1,6 @@
 # 📈 Python Data Visualization Playground 📉
 
-<a href="https://docs.python.org/3/" target="_blank">
-    <img
-         alt="Python"
-         src="https://www.python.org/static/img/python-logo@2x.png"
-         height="60px"
-         width="100px"
-         style="margin-bottom: 7px; background-color: #3776AB; border-radius: 5px"
-    >
-</a>
+![thumbnail](https://www.python.org/static/img/python-logo@2x.png)
 
 <a href="https://numpy.org/" target="_blank">
     <img
@@ -16,6 +8,7 @@
          src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"
          height="60px"
          width="100px"
+         style="margin-right: 20px;"
     >
 </a>
 
@@ -25,7 +18,7 @@
          src="https://matplotlib.org/_static/logo2.svg"
          height="60px"
          width="100px"
-         style="margin-bottom: 10px;"
+         style="margin-right: 20px;"
     >
 </a>
 
@@ -35,7 +28,7 @@
          src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg"
          height="60px"
          width="100px"
-         style="margin-bottom: 10px;"
+         style="margin-right: 20px;"
     >
 </a>
 
@@ -45,7 +38,6 @@
          src="https://pandas.pydata.org/static/img/pandas.svg"
          height="60px"
          width="100px"
-         style="margin-bottom: 5px;"
     >
 </a>
 <br >
